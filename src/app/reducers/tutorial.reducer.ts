@@ -17,6 +17,6 @@ export function reducer(state: Tutorial[] = [initialState], action: TutorialActi
         //     return state;
 
         default:
-            return state;
+            return state;  
     }
 }
